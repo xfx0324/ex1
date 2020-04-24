@@ -6,7 +6,11 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+<<<<<<< HEAD
 console.log("a");
+=======
+console.log("yuancheng");
+>>>>>>> 7644947c2bfbaf5bcdc997270ff4353f5c29b62e
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
